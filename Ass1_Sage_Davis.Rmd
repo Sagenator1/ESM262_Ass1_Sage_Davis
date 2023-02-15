@@ -1,0 +1,18 @@
+---
+title: "Ass1_ESM262"
+author: "Sage Davis"
+date: '2023-02-14'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Why Am I taking ESM 262?
+
+We live in a data obsessed world. Knowing what constitutes good data claims is important. I value understanding how to interpret data and data driven claims. Knowing how to construct computer data models helps me understand data even better. I appreciate that I need more experience with good modeling best practices. My previous experience with "R" in ESM206 and ESM204 gave me an initial taste for "data wrangling" that I want to develop further. I want to continue to continue to learn coding and practice is how I envision that happening.  I can already tell that this class will help my data science skills.
+
+### What is my data science background?
+
+I have taken classes in Fortran, C++, Pascal, and Visual Basic but it has been years since I have used any of those languages to analyze data.  Since then I have used MS Excel to analyze data before taking ESM206. This experience included collecting data from various sources to analyze past trends and make regressions to model potential future data projections. I was exposed to "R" in ESM206 and performed many data analysis from various LTER sites. This analysis consisted of graphs and statistical correlation between various data sets. I saw that the application of "R" were quite powerful and could be broken in small functional chunks that could be independently tested. Both ESM203 and ESM204 required the use of "R" to complete their homework assignments. Currently I am using MS Excel in ESM287 to model Energy Demand analysis.
